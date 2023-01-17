@@ -1,4 +1,4 @@
-# ZeroPercentBrews-API
+# ZeroPercentBrews-API-[SNAPSHOT]
 
 📸 This is a snapshot of the active team [repo](https://github.com/alastair10/ZeroPercentBrews-api) for the api.
 
@@ -40,7 +40,7 @@ Fully deployed at [ZeroPercentBrews.com](https://www.zeropercentbrews.com/).
 To work with the code, once you have cloned the repository:
 
 ```bash
-cd ZeroPercentBrews-api;
+cd ZeroPercentBrews-api-snapshot;
 npm run start;
 ```
 
